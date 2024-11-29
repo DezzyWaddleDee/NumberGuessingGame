@@ -1,0 +1,11 @@
+{
+  "name": "number-game-practice",
+  "version": "1.0.0",
+  "description": "guess numbers",
+  "main": "number-guessing-game-start.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Desmond Ferrer",
+  "license": "ISC"
+}
